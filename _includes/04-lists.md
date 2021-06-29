@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* How to lead a healthy lifestyle🍎
+** Things to do
+1. Wake up early in the morning
+2. Brush your teeth
+    i. Use toothpaste
+    ii. Use a good brush
+3. Have your breakfast
+4. Drink plenty of water
