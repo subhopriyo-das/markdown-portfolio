@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__My name is **Subhopriyo Das**,and I'm learning different skills in Github__
